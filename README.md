@@ -3,4 +3,4 @@
 - CRUD operations
 - Fetching dummy API's
 
-<img width="1580" height="730" alt="image" src="https://github.com/user-attachments/assets/3a2261f0-7c15-4f90-9988-ca6c8278a19d" />
+  <img width="1575" height="584" alt="image" src="https://github.com/user-attachments/assets/254a7ecc-0390-4f82-aef6-1eb6d50df98c" />
